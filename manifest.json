@@ -4,7 +4,7 @@
   },
   "features": {
     "agent_view": {
-      "agent_description": "Hi, I am an agent built using Bolt for JavaScript. I am here to help you out!",
+      "agent_description": "I am Slack Sherlock, an AI workplace investigator that searches Slack conversations, connects knowledge sources through MCP, and provides evidence-backed answers with recommended actions.",
       "suggested_prompts": []
     },
     "app_home": {
